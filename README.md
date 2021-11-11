@@ -6,5 +6,5 @@ Mysql is used for data storage and the restful api Flask is used.
 
 ## Authors
 
-- [@Eliud-Ngorongo](https://github.com/Eliud-Ngorongo)
-- [@kmagoto](https://github.com/kmagoto)
+- [Eliud-Ngorongo](https://github.com/Eliud-Ngorongo)
+- [kmagoto](https://github.com/kmagoto)
