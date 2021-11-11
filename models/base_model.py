@@ -26,5 +26,3 @@ class BaseModel():
 
         """
         if kwargs:
-            
-
