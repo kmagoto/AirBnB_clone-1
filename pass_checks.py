@@ -25,5 +25,6 @@ def find_outlier(integers):
 
 
 nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]  # this will the same list
-nums1 = [10, 89, 9997, 3, 51] # returns 10
 print(find_outlier(nums))
+nums1 = [10, 89, 9997, 3, 51] # returns 10
+print(find_outlier(nums1))
